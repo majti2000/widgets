@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/main.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/main.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/main.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/applikacio.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/applikacio.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/applikacio.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/checkbox.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/checkbox.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/checkbox.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/gomb.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/gomb.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/gomb.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/lista.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/lista.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/lista.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/statictext.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/statictext.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/statictext.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/szambeallito.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/szambeallito.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/szambeallito.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/teglalap.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/teglalap.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/teglalap.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/textbox.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/textbox.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/textbox.cpp"
+},
+{
+  "directory": "/Users/majtenyirita/CLionProjects/widgetek/build",
+  "command": "/usr/bin/clang++   -I/Users/majtenyirita/CLionProjects/widgetek/include  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/GraphicsProject.dir/cppk/widgets.cpp.o -c /Users/majtenyirita/CLionProjects/widgetek/cppk/widgets.cpp",
+  "file": "/Users/majtenyirita/CLionProjects/widgetek/cppk/widgets.cpp"
+}
+]

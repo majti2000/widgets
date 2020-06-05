@@ -1,0 +1,3 @@
+/Users/majtenyirita/CLionProjects/widgetek/build/CMakeFiles/rebuild_cache.dir
+/Users/majtenyirita/CLionProjects/widgetek/build/CMakeFiles/edit_cache.dir
+/Users/majtenyirita/CLionProjects/widgetek/build/CMakeFiles/GraphicsProject.dir
