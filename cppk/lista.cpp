@@ -58,4 +58,4 @@ void Lista::teglalapokkesz()
         teglalap * teg = new teglalap(_x, _y+(gout.cascent() + gout.cdescent())*(i+1), _size_x, gout.cascent() + gout.cdescent());
         teglalapok.push_back(*teg);
     }
-}
+} 

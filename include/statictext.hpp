@@ -3,7 +3,7 @@
 
 #include "graphics.hpp"
 #include "widgets.hpp"
-
+ 
 class statictext : public Widget{
 protected:
     std::string szov;

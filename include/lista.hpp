@@ -6,7 +6,7 @@
 #include "teglalap.hpp"
 #include <string>
 #include <vector>
-
+ 
 class Lista : public Widget
 {
 protected:

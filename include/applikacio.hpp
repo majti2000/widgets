@@ -3,7 +3,7 @@
 
 #include "widgets.hpp"
 #include <vector>
-
+ 
 class Applikacio
 {
 protected: 

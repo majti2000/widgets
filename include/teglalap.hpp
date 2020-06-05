@@ -9,4 +9,4 @@ struct teglalap{
     teglalap(int _a, int _b, int _w, int _h);
 };
 
-#endif 
+#endif

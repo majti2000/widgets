@@ -24,6 +24,7 @@ void textbox::draw()
 void textbox::handle(event ev)
 {
     int betu=0;
+    
     if (ev.type==ev_mouse && kival(ev.pos_x, ev.pos_y) && ev.button==btn_left){
         kijel=true;
     }

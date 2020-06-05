@@ -4,7 +4,6 @@
 using namespace std;
 using namespace genv;
 
-
 void Applikacio::handle()
 {
     for (Widget *widgs : widgets){

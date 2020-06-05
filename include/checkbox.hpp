@@ -3,7 +3,7 @@
 
 #include "widgets.hpp"
 #include "graphics.hpp"
-
+ 
 class CheckBox : public Widget {
 protected:
     bool checked;

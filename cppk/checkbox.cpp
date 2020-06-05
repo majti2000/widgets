@@ -26,7 +26,7 @@ void CheckBox::handle(event ev)
 {
     if (ev.type == ev_key && ev.keycode == key_enter) {
             checked = !checked;
-    }
+    } 
     if (ev.type == ev_mouse && ev.button==btn_left && kival(ev.pos_x, ev.pos_y)) {
         checked = !checked;
     }

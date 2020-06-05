@@ -3,7 +3,7 @@
 
 #include "graphics.hpp"
 
-class Widget {
+class Widget{
 protected:
     int _x, _y, _size_x, _size_y;
 public:

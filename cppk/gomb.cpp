@@ -13,7 +13,7 @@ void Gomb::draw()
     gout << move_to(_x, _y) << color(255,255,255) << box(_size_x, _size_y);
 
     gout << move_to(_x+30, _y+15) << color(0,0,0) << text(rairva);
-}
+} 
 
 void Gomb::handle(genv::event ev)
 {

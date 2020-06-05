@@ -3,7 +3,7 @@
 
 #include "widgets.hpp"
 #include <functional>
-
+ 
 class Gomb : public Widget
 {
 protected:

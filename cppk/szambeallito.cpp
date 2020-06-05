@@ -11,7 +11,6 @@ Szambeallito::Szambeallito(int x, int y, int szelesseg, int magassag, int al, in
 {
 }
 
-
 void Szambeallito::draw()
 {
     gout << move_to(_x, _y) << color(255,255,255) << box(_size_x, _size_y);

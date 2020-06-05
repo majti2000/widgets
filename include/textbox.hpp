@@ -9,7 +9,7 @@ using namespace std;
 class textbox : public Widget {
 protected:
     bool kijel;
-    std::string beszov;
+    std::string beszov; 
 public:
     textbox(int x, int y, int sx, int sy);
     virtual void draw();

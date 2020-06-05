@@ -6,8 +6,7 @@
 #include "teglalap.hpp"
 
 using namespace std;
-
-
+ 
 class Szambeallito : public Widget {
 protected:
     int ertek;
